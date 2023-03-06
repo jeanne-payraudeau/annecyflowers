@@ -1,0 +1,33 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+
+body{
+	font-family: 'Times new roman', serif;
+	font-family: 18px;
+	background-color: #ecdcf9;
+}
+h1, h2, h2 {
+	font-family: 'Helvetica';
+	font-weight: bold;
+}
+
+h2{
+	font-family: 'Calibri';
+}
+
+
+a{
+	text-decoration: none;
+}
+
+img {
+	width: 100px;
+	height: 150px;
+
+}
